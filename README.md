@@ -16,6 +16,8 @@ works on any of the following operating systems:
 How to Install
 
  git clone https://github.com/zhuniqiahmed-sudo/M3D1.git
+
     chmod +x 'M£D!-TOOL'
+    
 ./'M£D!-TOOL'
 
