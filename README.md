@@ -15,7 +15,7 @@ works on any of the following operating systems:
 • Unix
 How to Install
 
-    Open the terminal and type <pkg install git>
-    Then<git clone https://github.com/zhuniqiahmed-sudo/M3D1.git>
-    <cd M£D!-TOOL>
-    <bash M£D!-TOOL.sh>
+ git clone https://github.com/zhuniqiahmed-sudo/M3D1.git
+    chmod +x 'M£D!-TOOL'
+./'M£D!-TOOL'
+
